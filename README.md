@@ -2,6 +2,9 @@
 
 A Telegram bot that automatically posts notifications to a Telegram channel when a token receives a boost on DexScreener. Users subscribe to the channel to receive updates, as the bot does not allow direct interaction for manual requests.
 
+## See sample here;
+   https://t.me/dexscreenerboost
+
 ## Features
 
 - Monitors DexScreener for new token boosts.
